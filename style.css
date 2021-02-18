@@ -21,6 +21,7 @@ nav{
 	z-index: 1;
 	background-color: #a0cffa;
 }
+
 nav ul{
 	display: flex;
   list-style: none;
@@ -122,11 +123,13 @@ h1.temp {
   left: 20px;
 }
 
+
 @media(max-width:900px){
   .menu-icon{
   display:block;}
     nav{
       justify-content: space-between;
+      align-items: center;
       height: 65px;
       padding: 0px 30px;
     }
@@ -167,6 +170,7 @@ h1.temp {
       position:relative;
       transition: background 0.2s ease-out;
       width:18px;
+      right: 25px;
     }
     nav .menu-icon .nav-icon:before,
     nav .menu-icon .nav-icon:after{
@@ -202,3 +206,4 @@ h1.temp {
       display:block;
     }
   }
+  
