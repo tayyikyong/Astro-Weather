@@ -36,8 +36,9 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#techniques">Techniques</a></li>
     <li><a href="#our-commits">Commits</a></li>
-    <li><a href="#Testing">Testing</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#Testing">Testing</a></li>
+    <li><a href="#contact">Website Pitch</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -211,6 +212,8 @@ Project Link: [https://tayyikyong.github.io/ID_Group-3_Astro-Weather_website/](h
 2. Quiz
 * When user does not enter a name, score cannot be saved.
 
+## Link to video of website pitch
+Website Pitch: [https://drive.google.com/file/d/1j1KxLsnv2tbKk3D4lrQVlNDUtFfK7Sge/view](https://drive.google.com/file/d/1j1KxLsnv2tbKk3D4lrQVlNDUtFfK7Sge/view)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
