@@ -125,3 +125,18 @@ input {
 input::placeholder {
   color: #aaa;
 }
+
+.button {
+  background-color: #ffffff;
+  border: 2px;
+  border-color: #56a5eb;
+  color: #56a5eb;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+}
+
