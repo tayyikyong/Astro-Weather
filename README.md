@@ -77,7 +77,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/tayyikyong/ID-Assignment-3-final-.git
+   git clone https://github.com/tayyikyong/ID_Group-3_Astro-Weather_website.git
    ```
 
 ## Design Process
