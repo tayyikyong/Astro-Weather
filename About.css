@@ -38,20 +38,17 @@ nav .menu-btn,
 		display:none;
 	}
 
-  *{
-    padding: 0;
+*{
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
-    font-family: 'Quicksand', sans-serif;
-    
-  }
+}
 body{
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #f1f1f1;
-    font-family: 'Quicksand', sans-serif;
 }
 .about{
     background: url(https://i.pinimg.com/originals/06/68/22/0668226ecfe375bf4bfb6026ff8ef4ab.gif) no-repeat left;

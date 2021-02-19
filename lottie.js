@@ -1,5 +1,5 @@
-setTimeout(myFunction, 3000);
+setTimeout(myFunction, 10000);
 
 function myFunction(){
-  window.location.href = "About.html";
+  window.location.href = "index.html";
 }
