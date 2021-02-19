@@ -202,7 +202,7 @@ Retrieving the information from openweathermap API using __fetch__
 Email - s10185009@connect.np.edu.sg
       - s10206047@connect.np.edu.sg
 
-Project Link: [https://tayyikyong.github.io/ID_Astro-Weather_website/](https://tayyikyong.github.io/ID_Astro-Weather_website/)
+Project Link: [https://tayyikyong.github.io/ID_Group-3_Astro-Weather_website/](https://tayyikyong.github.io/ID_Group-3_Astro-Weather_website/)
 
 ## Testing
 1. Searchbar
