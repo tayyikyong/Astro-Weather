@@ -46,7 +46,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src= "Astro Weather home page.PNG" alt="Home page" width = "auto" height="auto">
+<img src= "Astro Weather home page.png" alt="Home page" width = "auto" height="auto">
 <img src= "quiz_ss.PNG" alt="Quiz" width = "auto" height="auto">
 Astro Weather is a weather website. It informs the user of the global weather upon entering the preferred country into the searchbar. 
 Astro Weather was made to observe and understand the weather and climate around the world. 
