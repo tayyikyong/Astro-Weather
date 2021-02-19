@@ -4,10 +4,16 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   background: #222;
   background-image: url('https://source.unsplash.com/1600x900/?landscape');
-  font-size: 120%;
+  
+}
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Quicksand', sans-serif;
 }
 nav{
 	display: flex;
