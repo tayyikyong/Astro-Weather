@@ -35,7 +35,7 @@
     <li><a href="#design process">Design Process</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#techniques">Techniques</a></li>
-    <li><a href="#My Commits">Commits</a></li>
+    <li><a href="#Our Commits">Commits</a></li>
     <li><a href="#Testing">Testing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -78,10 +78,6 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/tayyikyong/ID-Assignment-3-final-.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
    ```
 
 ## Design Process
@@ -159,14 +155,47 @@ fetch(
         console.error(err);
     });
 ```
-## My Commits
+3. Retrieving from openweathermap API
+Retrieving the information from openweathermap API using __fetch__
+  * easy, logical way to fetch resources asynchronously across the network
+  * Fetch provides a better alternative than `XMLHttpRequests` that can be easily used by other technologies such as `Service Workers`
+  
+  ```javascript 
+  fetchWeather: function (city) {
+    fetch(
+      "https://api.openweathermap.org/data/2.5/weather?q=" +
+        city +
+        "&units=metric&appid=" +
+        this.apiKey
+    )
+      .then((response) => {
+        if (!response.ok) {
+          alert("No weather found.");
+          throw new Error("No weather found.");
+        }
+        return response.json();
+      })
+      .then((data) => this.displayWeather(data));
+  }, 
+  ```
+  
+## Our Commits
 [Commit List](https://github.com/tayyikyong/ID_Astro-Weather_website/commits/main)
 1. Quiz
 * Landing Page for quiz
-* JS code for quiz
+* JavaScript code for quiz
 * Scoreboard for quiz
-2. Temperature Site
-* 
+2. Astro Weather Site
+* HTML code for Home Page
+* CSS code for home page
+* JavaScript code for Home page
+* HTML code for About Page
+* CSS code for About Page
+* HTML code for Contact Page
+* CSS code for Contact Page
+* HTML code for Lottie
+* CSS code for Lottie
+* JavaScript code for Lottie
 
 ## Contact
 
@@ -193,7 +222,9 @@ Project Link: [https://tayyikyong.github.io/ID_Astro-Weather_website/](https://t
 
 2. API
 * [Trivia API](https://opentdb.com/api_config.php)
+* [openweathermap API](https://api.openweathermap.org/data)
 
 3. Inspiration
 * [Quiz HTML](https://www.youtube.com/watch?v=rFWbAj40JrQ)
+* [Weather website](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 
