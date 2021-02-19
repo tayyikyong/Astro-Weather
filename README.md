@@ -2,7 +2,7 @@
 Astro Weather is a weather website. It informs the user of the global weather upon entering the preferred country into the searchbar. 
 Astro Weather was made to observe and understand the weather and climate around the world. 
 The key areas of our website is to collect and maintain reliable long term global weather records and to provide reliable weather and climate services.
-[Github Page link](https://tayyikyong.github.io/Astro-Weather/)
+[Github Page link](https://tayyikyong.github.io/ID_Astro-Weather_website/)
 ## Design Process
 
 
