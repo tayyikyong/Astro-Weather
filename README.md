@@ -1,31 +1,8 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
   <a href="https://github.com/tayyikyong/ID-Assignment-3-final-">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="company_icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Astro Weather</h3>
@@ -70,6 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<img src= "quiz_ss.png" alt="Quiz" width = "auto" height="auto">
 Astro Weather is a weather website. It informs the user of the global weather upon entering the preferred country into the searchbar. 
 Astro Weather was made to observe and understand the weather and climate around the world. 
 The key areas of our website is to collect and maintain reliable long term global weather records and to provide reliable weather and climate services.
@@ -99,7 +77,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/tayyikyong/ID-Assignment-3-final-.git
    ```
 2. Install NPM packages
    ```sh
@@ -215,4 +193,7 @@ Project Link: [https://tayyikyong.github.io/ID_Astro-Weather_website/](https://t
 
 2. API
 * [Trivia API](https://opentdb.com/api_config.php)
+
+3. Inspiration
+* [Quiz HTML](https://www.youtube.com/watch?v=rFWbAj40JrQ)
 
