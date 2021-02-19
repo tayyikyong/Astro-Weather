@@ -35,7 +35,7 @@
     <li><a href="#design process">Design Process</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#techniques">Techniques</a></li>
-    <li><a href="#my Commits">Commits</a></li>
+    <li><a href="#my-commits">Commits</a></li>
     <li><a href="#Testing">Testing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
