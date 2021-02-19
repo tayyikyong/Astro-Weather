@@ -38,7 +38,7 @@
     <li><a href="#our-commits">Commits</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#Testing">Testing</a></li>
-    <li><a href="#contact">Website Pitch</a></li>
+    <li><a href="#link-to-video-of-website-pitch">Website Pitch</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
