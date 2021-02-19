@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/tayyikyong/ID-Assignment-3-final-">
-    <img src="company_icon.png" alt="Logo" width="80" height="80">
+    <img src="company_icon.PNG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Astro Weather</h3>
@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src= "quiz_ss.png" alt="Quiz" width = "auto" height="auto">
+<img src= "quiz_ss.PNG" alt="Quiz" width = "auto" height="auto">
 Astro Weather is a weather website. It informs the user of the global weather upon entering the preferred country into the searchbar. 
 Astro Weather was made to observe and understand the weather and climate around the world. 
 The key areas of our website is to collect and maintain reliable long term global weather records and to provide reliable weather and climate services.
